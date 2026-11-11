@@ -56,8 +56,6 @@ I am a passionate **Computer Science Student** and **Software & Security Enginee
 ### 🛡️ Hardened Network & Multi-Protocol Routing Infrastructure
 * Enterprise-grade hybrid network routing combining custom OpenWrt hardware with Cloud VPS endpoints. Supports dynamic failover, automated traffic accounting via gRPC, and multi-protocol anti-censorship tunnels.
 
-### 🤖 Autonomous Multi-Agent Content Studio
-* A synchronized 9-agent ecosystem orchestrating deep technical research, fact-checking, automated technical writing, Telegram broadcast publishing, dynamic YouTube Shorts generation, and search engine optimization.
 
 ---
 
@@ -88,6 +86,4 @@ I am a passionate **Computer Science Student** and **Software & Security Enginee
 
 <br/>
 
-<div align="center">
-  <sub>Engineered with precision & security in mind • Managed by Agent 9 (Git Architect) 🐙⚡</sub>
-</div>
+
