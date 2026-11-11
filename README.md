@@ -53,7 +53,7 @@ I am a passionate **Computer Science Student** and **Software & Security Enginee
 ### 🌐 [rezapython.ir](https://rezapython.ir)
 * Modern high-performance personal portfolio, whitepaper repository, and interactive 3D WebGL experience built on Django and hardened Nginx. Fully optimized for Generative Engine Optimization (GEO) and JSON-LD semantic graphs.
 
-### 🛡️ Zeus Guard & Hardened Multi-Protocol Infrastructure
+### 🛡️ Hardened Network & Multi-Protocol Routing Infrastructure
 * Enterprise-grade hybrid network routing combining custom OpenWrt hardware with Cloud VPS endpoints. Supports dynamic failover, automated traffic accounting via gRPC, and multi-protocol anti-censorship tunnels.
 
 ### 🤖 Autonomous Multi-Agent Content Studio
