@@ -1,5 +1,10 @@
 <div align="center">
 
+[![Persian Version](https://img.shields.io/badge/🇮🇷_مشاهده_نسخه_فارسی-README.fa.md-10b981?style=for-the-badge)](README.fa.md)
+[![English Version](https://img.shields.io/badge/🇬🇧_English_Version-README.md-229ED9?style=for-the-badge)](README.md)
+
+<br/>
+
 # ⚡ Reza Mortazavi (رضا مرتضوی)
 ### 💻 Computer Science Student | Python & Network Security Engineer | AI Agentic Systems
 
@@ -56,6 +61,25 @@ I am a passionate **Computer Science Student** and **Software & Security Enginee
 
 ---
 
+<details>
+<summary><b>🇮🇷 برای مطالعه خلاصه معرفی و مهارت‌ها به زبان فارسی کلیک کنید (Click for Persian Overview)</b></summary>
+<br/>
+
+<div dir="rtl">
+
+### ⚡ درباره رضا مرتضوی
+دانشجوی مهندسی کامپیوتر، توسعه‌دهنده بک‌اند پایتون و متخصص امنیت و زیرساخت شبکه. تمرکز اصلی بر سامانه‌های خودکار چندایجنت، امن‌سازی سرورهای لینوکس، الگوریتم‌های مسیریابی هوشمند و بهینه‌سازی GEO برای دیده‌شدن در مدل‌های هوش مصنوعی.
+
+* 🌐 **پایگاه مقالات تخصصی:** [rezapython.ir](https://rezapython.ir)
+* 🛡️ **تخصص‌ها:** پایتون، جنگو، گانیکورن، انجین‌ایکس، اوپن‌دبلیو‌آرتی، وایرگارد، لینوکس اوبونتو و دبیان، ایجنت‌های هوشمند جمینای و اتوماسیون تلگرام.
+* 📖 **[مشاهده مستندات کامل فارسی در README.fa.md](README.fa.md)**
+
+</div>
+
+</details>
+
+---
+
 ## 📬 Connect with Me
 
 * 🌐 **Website & Articles:** [rezapython.ir](https://rezapython.ir)
@@ -65,5 +89,5 @@ I am a passionate **Computer Science Student** and **Software & Security Enginee
 <br/>
 
 <div align="center">
-  <sub>Engineered with precision & security in mind • Managed by Agent 9 (Git Architect)</sub>
+  <sub>Engineered with precision & security in mind • Managed by Agent 9 (Git Architect) 🐙⚡</sub>
 </div>
